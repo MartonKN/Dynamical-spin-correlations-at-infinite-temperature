@@ -6,6 +6,6 @@ Marton Kanasz-Nagy, Izabella Lovas, Fabian Grusdt, Daniel Greif, Markus Greiner,
 
 https://arxiv.org/pdf/1703.09231.pdf
 
-We consider how adding a single quantum particle to a high (infinite) temperature spin environment can lead to spin correlations that are preserved during the time-scale of our simulations. In contrast to many high-temperature systems, the dynamical quantum correlations induced in the environment by the particle are not washed out due to decoherence.
+We consider how adding a single quantum particle to a high (infinite) temperature spin environment can lead to spin correlations that are lasting (preserved throughout the time scale of our simulation). In contrast to many high-temperature systems, these dynamical quantum correlations induced in the environment by the particle are not washed out due to decoherence.
 
 Please look into the paper for details. The code's workings are described in the numerous comments in the source code files. The code was written in C++ and it is of the order of 10K lines.
